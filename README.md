@@ -5,3 +5,5 @@
 2. Animal Viewer: an app simulating a zoo catalog that presents animal pictures and their name and species using scroll view. By tapping on corresponding buttons, the selected animal's sound can be played.
 
 3. Github Issue Viewer: an app using the tableview to present the opened and closed issues of a github repository separately. Issues are retrieved through API provided by github.
+
+4. A TicTacToe game made to experiment with animation creating techniques such as the usage of CABasicAnimation.
